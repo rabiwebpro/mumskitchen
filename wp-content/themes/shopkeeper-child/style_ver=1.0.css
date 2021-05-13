@@ -26,10 +26,22 @@ Version: 1.0
     color: rgb(233, 223, 223);
     background-color: rgba(10, 10, 10, 0.7)!important;
     padding-left:15px;
+    overflow: scroll;
+    height: 100vh;
+    margin-bottom: 20px;
+    padding-bottom: 10px;
 }
 
 .press-back p{
     margin-bottom: 0px;
+}
+
+.wall-back {
+    margin-left: 20px;
+    margin-top: 50px;
+    color: rgb(233, 223, 223);
+    background-color: rgba(10, 10, 10, 0.7)!important;
+    padding-left:15px;
 }
 
 .awards-pg p{
@@ -47,6 +59,12 @@ Version: 1.0
 .join-us-cnt{
     color: white;
     background-color: rgba(146, 135, 71, 0.7)!important;
+}
+
+.slider-content-wrapper{
+    padding-top:10px !important;
+    margin-left:20px !important;
+    background-color: rgba(10, 10, 10, 0.7)!important;
 }
 
 
